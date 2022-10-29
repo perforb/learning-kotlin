@@ -1,4 +1,4 @@
-package byexample
+package byexample.functions
 
 fun printMessage(message: String): Unit {
   println(message)
