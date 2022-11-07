@@ -1,4 +1,4 @@
-package byexample.functions
+package byexample
 
 class Customer
 

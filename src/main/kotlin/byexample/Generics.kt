@@ -1,4 +1,4 @@
-package byexample.functions
+package byexample
 
 class MutableStack<E>(vararg items: E) {
 
